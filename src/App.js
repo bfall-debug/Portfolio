@@ -4,7 +4,6 @@ import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import "./App.css";
 
@@ -19,7 +18,6 @@ export default function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Wrapper>
-        <Footer />
       </div>
     </Router>
   );
