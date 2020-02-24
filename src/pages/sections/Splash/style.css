@@ -1,0 +1,7 @@
+#Splash {
+    background-image:url(./engineering.jpg);
+    height: 450px;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
