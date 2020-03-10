@@ -6,7 +6,9 @@ export default function Splash() {
         <section className="container-fluid" id="Splash">
             <div className="row">
                 <div className="col-12">
-
+                    <div>
+                        <img src=".\ProfilePic.jpg" />
+                    </div>
                 </div>
             </div>
         </section>
